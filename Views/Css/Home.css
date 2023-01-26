@@ -1,0 +1,12 @@
+nav{
+    
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+    margin-top: 40px;
+    border-style: double;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+    border-width: thick;
+    
+}
